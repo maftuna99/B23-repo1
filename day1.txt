@@ -2,3 +2,6 @@ Hello
 
 we just made our first commit
 YAY!!!
+
+
+we learning git lol 
